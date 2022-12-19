@@ -1,6 +1,0 @@
-# temp files directories
-**/.DS_Store
-**/._*
-**/vifminfo.json
-terraform.tfstate
-terraform.tfstate.backup
